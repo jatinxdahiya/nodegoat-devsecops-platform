@@ -74,7 +74,7 @@ Cluster metrics
 
 ### Jenkins Pipeline
 
-![Jenkins](screenshots/jenkins-pipeline-dashboard.png)
+![Jenkins](screenshots/jenkins-pipeline.png)
 
 ### SonarQube
 
@@ -87,6 +87,15 @@ Cluster metrics
 ### Grafana Monitoring
 
 ![Grafana](screenshots/grafana-dashboard.png)
+
+### Dependency Check 
+![DependencyCheck](screenshots/dependency-check.png)
+
+### Prometheus Targets
+![PrometheusTargets](screeenshots/prometheus-targets.png)
+
+### ZAP
+![ZAPReport](screenshots/zap-report.png)
 
 ---
 
