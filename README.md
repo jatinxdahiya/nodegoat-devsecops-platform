@@ -92,7 +92,7 @@ Cluster metrics
 ![DependencyCheck](screenshots/dependency-check.png)
 
 ### Prometheus Targets
-![PrometheusTargets](screeenshots/prometheus-targets.png)
+![PrometheusTargets](screenshots/prometheus-targets.png)
 
 ### ZAP
 ![ZAPReport](screenshots/zap-report.png)
